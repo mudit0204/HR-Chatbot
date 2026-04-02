@@ -2,4 +2,4 @@ a
 b 
 c
 d
-Welcme to the repo
+Welcome to the repo
